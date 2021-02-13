@@ -1,0 +1,15 @@
+# ignore all .exe files
+.exe
+*.exe
+/*.exe
+
+# ignore all .exe files in the directory and any of its subdirectories
+/**/*.exe
+
+# ignore all .class files
+.class
+*.class
+/*.class
+
+# ignore all .class files in the directory and any of its subdirectories
+/**/*.class
